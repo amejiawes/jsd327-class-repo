@@ -17,7 +17,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+The project will be about upgrading features and changing the way content is consume for the website https://alfredwebdesign.com/, the website is built on WordPress and is hosted in bluehost, the entire site is a collection of post and pages, the wp rest api has been installed making all the content in the site available on JSON format by accesing the endpoints https://alfredwebdesign.com/wp-json/wp/v2/pages/, the new features for the site would be to change the body of the page using json when you click on any of the pages, the front page specifically will have a custom slideshow that we will be building from scratch to display featured content on the site.
 
 ## Wireframes
 
