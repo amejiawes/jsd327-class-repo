@@ -17,7 +17,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-The project will be about upgrading features and changing the way content is consume for the website https://alfredwebdesign.com/, the website is built on WordPress and is hosted in bluehost, the entire site is a collection of post and pages, the wp rest api has been installed making all the content in the site available on JSON format by accesing the endpoints https://alfredwebdesign.com/wp-json/wp/v2/pages/, the new features for the site would be to change the body of the page using json when you click on any of the pages, the front page specifically will have a custom slideshow that we will be building from scratch to display featured content on the site.
+Alfred Web Design Studio is a sole propietor company based in New York delivering WordPress tailored solutions(custom themes, plugins, widgets, responsive design) url[ https://alfredwebdesign.com/] , my mission is to upgrade this project and bring it back to life, the idea is to implement what was learned in the JSD class to add interactivity and ajax navigation across the site. The website is built on WordPress all content in the site is available on json format so i expand the way content is display retriving the information the site already have. the wp rest api has been installed to make all the content in the site available on JSON format by accesing the endpoints https://alfredwebdesign.com/wp-json/wp/v2/pages/, the new features for the site would be to change the body of the page using json when you click on any of the pages, the front page specifically will have a custom slideshow that we will be building from scratch to display featured content on the site.
 
 ## Wireframes
 
