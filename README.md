@@ -28,7 +28,16 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
+## Functional Components
+
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Defining Areas to be refactored and functionality logic | A | 4hrs| 2hrs | 2hrs |
+| Creating Mockups of the pages in the site | A | 2hrs| 2hrs | 2hrs |
+| Rafactoring HTML/CSS | A | 6hrs| 0hrs | 0hrs |
+| Setting up end points using the wp rest api | B | 3hrs| 2hrs | 2hrs |
+| Update Theme to support new functionalities and modify files | B | 4hrs| 0hrs | 0hrs |
+| Total Time | / | 19hrs| 19hrs | 19hrs |  
 
 ### MVP/PostMVP - 5min
 
