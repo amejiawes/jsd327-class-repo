@@ -24,7 +24,39 @@ The website is built on WordPress, all content is available on json format so it
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+Home Page Blocks and Areas
 <img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/Alfred-Web-Design-Home-Page-Mockup.png">
+
+Featured Content Slider and fields 
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/slider-component.jpg">
+
+Main Content Area to replace its content dynamically using ajax
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/main-container.jpg">
+
+Main Content Area inner page with sidebar
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/main-content-inner-page.jpg">
+
+Contact Form with Multiple steps
+
+Step 1
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/contact-us-step-1.jpg">
+
+
+Step 2
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/contact-us-step-2.jpg">
+
+
+Step 3
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/contact-us-step-3.jpg">
+
+
+Step 4
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/contact-us-step-4.jpg">
+
+
+Step 5
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/contact-us-step-5.jpg">
+
 
 ## Priority Matrix
 
