@@ -24,6 +24,7 @@ The website is built on WordPress, all content is available on json format so it
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+<img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/Alfred-Web-Design-Home-Page-Mockup.png">
 
 ## Priority Matrix
 
