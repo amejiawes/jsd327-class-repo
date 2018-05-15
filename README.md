@@ -37,6 +37,9 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 | Rafactoring HTML/CSS | A | 6hrs| 0hrs | 0hrs |
 | Setting up end points using the wp rest api | B | 3hrs| 2hrs | 2hrs |
 | Update Theme to support new functionalities and modify files | B | 4hrs| 0hrs | 0hrs |
+| Create custom ajax loading functionality for the site navigation | B | 4hrs| 0hrs | 0hrs |
+| Create Product filtering functionality for the products page | B | 4hrs| 0hrs | 0hrs |
+| Create Dynamic Contact form with step by step transitions | B | 4hrs| 0hrs | 0hrs |
 | Total Time | / | 19hrs| 19hrs | 19hrs |  
 
 ### MVP/PostMVP - 5min
