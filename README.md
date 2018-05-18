@@ -27,6 +27,16 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 Home Page Blocks and Areas
 <img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/Alfred-Web-Design-Home-Page-Mockup.png">
 
+Table of Content
+1) Main Logo of the Website
+2) Language Switcher
+3) Main Menu
+4) Custom Featured Products Slider
+5) Main Content Area
+6) Dynamic City Background Image that changes according to the time of the day
+7)Social Media Icons
+8) CopyRight Notice and Privacy Policy
+
 Featured Content Slider and fields 
 <img src="https://www.alfredwebdesign.com/alfred/wp-content/uploads/2018/05/slider-component.jpg">
 
